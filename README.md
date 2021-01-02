@@ -8,5 +8,4 @@ Sometimes, I have to use this thing called machine learning.
 are still out there seem to need elements of machine learning.
 - 😄  Thankfully, it involves a lot of programming and math, which I like.
 So, we are good so far.
-- 👻  In my spare time, I like to read, play some football or tennis. I also love movies and
-and hope to write a screenplay someday. We'll see.
+- 👻  In my spare time, I like to read, play some football or tennis. I also love movies and hope to write a screenplay someday. We'll see.

@@ -21,6 +21,5 @@ So, we are good so far.
 <code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">
-</p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

@@ -11,7 +11,7 @@ So, we are good so far.
 - 👻  In my spare time, I like to read, play some football or tennis. I also love movies and hope to write a screenplay someday. We'll see.
 
 
-**Languages and Tools:**  
+**What I regularly use:**  
 
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>

@@ -20,6 +20,7 @@ So, we are good so far.
 <code><img height="50" src="https://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png"></code>
 <code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src=https://www.flaticon.com/svg/vstatic/svg/518/518713.svg?token=exp=1619260953~hmac=94cb521471e3b844f302fc5414cba8ae"></code>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

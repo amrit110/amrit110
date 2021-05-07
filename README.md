@@ -11,7 +11,7 @@ So, we are good so far.
 - 👻  In my spare time, I like to read, play some football or tennis. I also love movies and hope to write a screenplay someday. We'll see.
 
 
-**What I regularly use:**  
+**What I regularly work with:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>

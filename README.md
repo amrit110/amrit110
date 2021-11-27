@@ -12,7 +12,7 @@ So, we are good so far.
 
 
 **What I regularly work with:**  
-
+![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)
 
 

@@ -28,6 +28,7 @@ So, we are good so far.
 ![Lua](https://img.shields.io/badge/-lua-0f046b?style=flat-square&logo=lua)
 
 **Machine learning and Scientific Computation:**
+
 ![numpy](https://img.shields.io/badge/-NumPy-031a07?style=flat-square&logo=numpy)
 
 

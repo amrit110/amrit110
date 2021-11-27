@@ -11,7 +11,8 @@ So, we are good so far.
 - 👻  In my spare time, I like to read, play some football or tennis. I also love movies and hope to write a screenplay someday. We'll see.
 
 
-**What I regularly work with:**  
+**What I regularly work with:**
+
 ![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)
 

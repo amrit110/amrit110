@@ -13,7 +13,7 @@ So, we are good so far.
 
 **What I regularly work with:**  
 
-<link rel="https://github.com/topics/linux" type="image/x-icon" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

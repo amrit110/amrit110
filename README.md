@@ -14,15 +14,6 @@ So, we are good so far.
 **What I regularly work with:**  
 
 <link rel="https://github.com/topics/linux" type="image/x-icon" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="50" src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="50" src="https://cdn.algorithmia.com/developers/images/language_logos/pytorch.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

@@ -20,9 +20,15 @@ So, we are good so far.
 
 **Programming languages:**
 
-![python](https://img.shields.io/badge/-python-735f10?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-python-735f10?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-0d1e75?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Rust](https://img.shields.io/badge/-Rust-a83d0f?style=flat-square&logo=rust)
+![Go](https://img.shields.io/badge/-Go-0f046b?style=flat-square&logo=go)
+![Lua](https://img.shields.io/badge/-lua-0f046b?style=flat-square&logo=lua)
+
+**Machine learning and Scientific Computation:**
+![numpy](https://img.shields.io/badge/-NumPy-031a07?style=flat-square&logo=numpy)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

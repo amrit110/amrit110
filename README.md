@@ -30,6 +30,8 @@ So, we are good so far.
 **Machine learning and Scientific Computation:**
 
 ![numpy](https://img.shields.io/badge/-NumPy-031a07?style=flat-square&logo=numpy)
+![pytorch](https://img.shields.io/badge/-PyTorch-031a07?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-031a07?style=flat-square&logo=tensorflow)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

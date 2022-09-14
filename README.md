@@ -30,6 +30,7 @@ So, we are good so far.
 **Machine learning and Scientific Computation:**
 
 ![numpy](https://img.shields.io/badge/-NumPy-031a07?style=flat-square&logo=numpy)
+![pandas](https://img.shields.io/badge/-Pandas-031a07?style=flat-square&logo=pandas)
 ![pytorch](https://img.shields.io/badge/-PyTorch-031a07?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-031a07?style=flat-square&logo=tensorflow)
 

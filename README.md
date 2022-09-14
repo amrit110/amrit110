@@ -34,5 +34,9 @@ So, we are good so far.
 ![pytorch](https://img.shields.io/badge/-PyTorch-031a07?style=flat-square&logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-031a07?style=flat-square&logo=tensorflow)
 
+**Visualization:**
+
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">

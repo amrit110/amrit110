@@ -1,16 +1,12 @@
 ###  Hi 👋
 
 
-- 🤖  I work on engineering problems. Solving them mostly involves programming, and crafting good software. 
-Sometimes, I have to use this thing called machine learning.
-- 💩  I'm really trying to avoid using machine learning and solve a problem without it if possible.
-- 😒  But it turns out I'm having to use them more than I'd like to coz the hard problems that
-are still out there seem to need elements of machine learning.
-- 😄  Thankfully, it involves a lot of programming and math, which I like.
-So, we are good so far.
-- 👻  In my spare time, I like to read, watch TV, play some football or tennis.
-- 🏥 I'm currently building an open-source software framework for enabling the deployment of 
-machine learning models for healthcare use cases.
+- 🤖  I like engineering problems.
+- 💩  I don't like where the world is headed in terms of using technology to solve problems.
+- 😒  But it turns out, people are going to build and use technology in good and bad ways regardless of whether we like it or not. 
+- 😄  I like to understand the people building technology, growing teams, mentoring and helping others define their career paths.
+- 👻  In my spare time, I like to read, watch TV, read, bike or play tennis.
+- 🏥 I'm currently building software along with AI to help solve engineering problems.
 
 
 **My bread and butter:**

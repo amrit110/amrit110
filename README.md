@@ -5,7 +5,7 @@
 - 💩  I don't like where the world is headed in terms of using technology to solve problems.
 - 😒  But it turns out, people are going to build and use technology in good and bad ways regardless of whether we like it or not. 
 - 😄  I like to understand the people building technology, growing teams, mentoring and helping others define their career paths.
-- 👻  In my spare time, I like to read, watch TV, read, bike or play tennis.
+- 👻  In my spare time, I like to read, watch TV, bike or play tennis.
 - 🏥 I'm currently building software along with AI to help solve engineering problems.
 
 

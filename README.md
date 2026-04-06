@@ -37,6 +37,3 @@
 ![langchain](https://img.shields.io/badge/-LangChain-031a07?style=flat-square&logo=langchain)
 ![openai](https://img.shields.io/badge/-OpenAI-031a07?style=flat-square&logo=openai)
 ![anthropic](https://img.shields.io/badge/-Anthropic-031a07?style=flat-square&logo=anthropic)
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit110&show_icons=true&hide_border=true">
